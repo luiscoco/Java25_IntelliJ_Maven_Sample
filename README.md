@@ -1,0 +1,2 @@
+# Java25_IntelliJ_Maven_Sample
+Java25_IntelliJ_Maven_Sample
