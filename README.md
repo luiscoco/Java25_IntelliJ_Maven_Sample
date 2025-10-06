@@ -52,4 +52,5 @@ public class Main {
 
 ## 4. How to run the application
 
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/5ff983e0-b287-4efe-92c7-a5b59c3df7d1" />
 
