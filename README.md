@@ -22,6 +22,6 @@ We input the project name and location
 
 We select the Build System Maven and the JDK Oracle OpenJDK 25
 
-<img width="979" height="894" alt="image" src="https://github.com/user-attachments/assets/a67df662-6a97-43d1-a8c8-b1b8d3e485f3" />
+<img width="980" height="897" alt="image" src="https://github.com/user-attachments/assets/81653802-d154-4f98-9494-bf70ba6fe748" />
 
 ## 4. 
