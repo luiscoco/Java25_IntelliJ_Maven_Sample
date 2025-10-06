@@ -24,4 +24,32 @@ We select the Build System Maven and the JDK Oracle OpenJDK 25
 
 <img width="980" height="897" alt="image" src="https://github.com/user-attachments/assets/81653802-d154-4f98-9494-bf70ba6fe748" />
 
-## 4. 
+We review the new project structure
+
+<img width="444" height="541" alt="image" src="https://github.com/user-attachments/assets/1e6d5b86-86f9-4286-b097-29fea8b81c7c" />
+
+We also review the **Main.java** file content:
+
+```java
+package org.example;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    static void main() {
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        IO.println("Hello and welcome!");
+
+        for (int i = 1; i <= 5; i++) {
+            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
+            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
+            IO.println("i = " + i);
+        }
+    }
+}
+```
+
+## 4. How to run the application
+
+
